@@ -91,4 +91,5 @@ st.checkbox("Objednat kostýmy **(co nejdříve)**")
 st.checkbox("Program plesu **(listopad)**")
 st.checkbox("Vybrat hudbu")
 st.checkbox("Tombola + lidi **(cca měsíc před plesem)**")
+
 st.checkbox("Text pro moderátora **(po domluvě)**")
